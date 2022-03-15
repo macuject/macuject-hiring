@@ -9,7 +9,7 @@ For the model training, use either PyTorch or Keras (any version).
 For your model, use a standard type of neural net.
 
 Measure its performance using the MAE (mean absolute error).
-A reasonably good perforance would be *MAE < 0.005*.
+A reasonably good perforance would be *MAE < 0.006*.
 
 Put your solution in a notebook in a repo in a Github account of your own (if you dont have an account you'll have to create own), and provide us a link to the repo. In your notebook show clearly the MAE you attain.
 
