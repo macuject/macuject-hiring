@@ -23,3 +23,5 @@ Please develop/ modify this as you wish, and provide the missing parts to comple
     - understand, optimise the data, model performance, etc
 
 Show your output and results, and comment on them.
+
+Please indicate how much time you spent on this (this is only for our own purposes in adjusting the test).
